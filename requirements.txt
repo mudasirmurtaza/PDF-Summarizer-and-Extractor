@@ -1,0 +1,8 @@
+PyPDF2
+streamlit
+transformers
+torch
+pyngrok
+textwrap3
+
+ 
